@@ -391,9 +391,13 @@ web.html
 </html>
 ```
 ## OUTPUT:
-![1 10](https://github.com/23014287Deepak/Pharma/assets/150985832/3a23b884-ddd0-4b72-8e8c-ebfdc9d71bf5)
-![2 10](https://github.com/23014287Deepak/Pharma/assets/150985832/635a71fd-3a00-464a-a123-f21cf28ccabd)
-![3 10](https://github.com/23014287Deepak/Pharma/assets/150985832/270d4bc9-65d6-4308-8ed5-ce6797611bc3)
+![330063588-3a23b884-ddd0-4b72-8e8c-ebfdc9d71bf5](https://github.com/deepak23000154/Pharma/assets/151951350/b37d74d2-f509-462b-bae3-c5af448b5c6b)
+
+![330063628-635a71fd-3a00-464a-a123-f21cf28ccabd](https://github.com/deepak23000154/Pharma/assets/151951350/865f56f1-dd6e-4c50-9159-cc5257b57c6f)
+
+
+![330063663-270d4bc9-65d6-4308-8ed5-ce6797611bc3](https://github.com/deepak23000154/Pharma/assets/151951350/a425dc50-7a23-47fe-bee4-0796b27b49f2)
+
 ![Screenshot 2024-05-13 183949](https://github.com/deepak23000154/Pharma/assets/151951350/5b5b7399-be4f-4c57-86eb-c48acb8449e7)
 
 
